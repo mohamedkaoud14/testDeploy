@@ -1,0 +1,13 @@
+{
+
+"env" : {
+ 
+    "DB_USER" :  "kaoud" , 
+    "DB_NAME" :  "myFirstDatabase"  , 
+    "DB_PASS" : "39qMFmCorHkBWTzu" 
+
+
+}
+
+}
+
